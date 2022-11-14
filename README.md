@@ -18,3 +18,6 @@ Used TestNg with selenium
 Reusable functions
 Best practices
 POM and Page factory
+
+
+Report: target/Spark.html
